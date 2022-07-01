@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(90deg, paleturquoise, palegreen);
+}
+
+h1{
+  margin: 10px;
+  font-size: 30px !important;
+}
